@@ -1,6 +1,6 @@
 # utils.py
 
-def say_hello(name="app.py"):
+def say_hello(name="my application"):
     print(f"Hello from {name}!")
 
 

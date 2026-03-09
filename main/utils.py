@@ -6,3 +6,5 @@ def say_hello(name="my application"):
 
 def helper():
     print("Hello from utils.py")
+
+# XXX

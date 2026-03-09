@@ -1,7 +1,7 @@
 # utils.py
 
-def say_hello():
-    print('Hello from app.py!')
+def say_hello(name="app.py"):
+    print(f'Hello from {name}!')
 
 
 def helper():
